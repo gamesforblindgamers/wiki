@@ -13,17 +13,19 @@ Additionally, many daily JAWS users even have NVDA as a backup, and use it as th
 
 Supporting NVDA might be the option to support the majority of gamers.
 
+# Game Mechanics
 
-# Subjective
-
-## Q: What type of keyboard do you use?
-A: I just use my laptop's internal keyboard. But if you mean blind people in general, then, well, it's mostly not limited to a single keyboard. Everyone uses the keyboard they like, just like sighted people.
+## Q: Are turn-based games particularly popular with blind gamers?
+A: There is nothing especially popular about turn-baste games, but we play them if we like them, just like any other games.
 
 ## Q: What reading speed do you prefer for in-game text? For example: tutorials, item or effect descriptions, menus, etc.
 A: This is very subjective, and I highly recommend that you don't assume anything. Provide a way to change the speech rate (Every speech synthesis API I know of will let you do that) or interface with screen readers directly. As for content that needs a natural voice, like cut-scenes and whatnot, then there's nothing special you should keep in mind about the speed there. It should just flow with your story and theme.
 
 
 # Other
+
+## Q: What type of keyboard do you use?
+A: I just use my laptop's internal keyboard. But if you mean blind people in general, then, well, it's mostly not limited to a single keyboard. Everyone uses the keyboard they like, just like sighted people.
 
 ## Q: Do you usually have a sighted person help you when setting up new games?
 A: It depends on how accessible the game is. If the game is accessible enough (hopefully), I wouldn't have to. But if it needs sighted help to set it up, it's probably not playable for me anyway, so I wouldn't bother.
