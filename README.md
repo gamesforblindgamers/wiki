@@ -1,3 +1,7 @@
-# wiki
+# Games for Blind Gamers Wiki
 
-The Games for Blind Gamers public wiki! Built with Markdown, mostly.
+Welcome to the Games for Blind Gamers public wiki! We're currently under heavy construction. Feel free to browse the pages below.
+
+- [Getting Started](getting-started/getting-started)
+- [FAQ](other/faq)
+- [Stellar Blind-Friendly Games](other/stellar-blind-friendly-games)
