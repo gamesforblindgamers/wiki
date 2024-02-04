@@ -9,7 +9,7 @@ We could have write-ups for a few stellar entries, before listing all of them al
 
 ## Games for Blind Gamers 1
 [Games For Blind Gamers 1](https://itch.io/jam/games-for-blind-gamers) began on November 20, 2021 and lasted for one month.
-It received 16 submissions:
+It received 15 submissions:
 - [A Quiet Space](https://saoigames.itch.io/a-quiet-space)
 - [Base Dolphin](https://nsix.itch.io/base-dolphin)
 - [Blind Command](https://vaudio.itch.io/blind-command)
