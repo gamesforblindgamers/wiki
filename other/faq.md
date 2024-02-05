@@ -2,9 +2,6 @@ These may represent the subjective opinion or preference of a single blind playe
 
 # Screen Readers and Text-to-Speech (TTS)
 
-## Q: Do you have opinions on games with their own audio or text-to-speech instead of screen reader compatibility?
-A: This is pretty subjective, but I believe for most, including me, screen reader compatibility would be great. If your game uses the operating system's TTS, it would help if you expose controls for speech rate, changing the voice, and a game-global key (mostly ctrl) that silences speech when pressed. For completely self-voiced games (e.g., using prerecorded speech), it's usually not that great because then you are limited by the speed and quality of the prerecorded lines.
-
 ## Q: Which screen readers should I support? NVDA, or JAWS? I heard JAWS is more widely used.
 
 A: NVDA is not as uncommon as you might think! In fact, it is more popular than JAWS, especially among gamers. JAWS is mainly prevalent in workspaces due to contracts, and many people don't even like how it's imposed on them by their bosses. NVDA, on the other hand, is seen as less formal, and the company behind JAWS tends to shout "use me" louder at employers.
@@ -12,6 +9,13 @@ A: NVDA is not as uncommon as you might think! In fact, it is more popular than 
 Additionally, many daily JAWS users even have NVDA as a backup, and use it as their screen reader for gaming. This is because JAWS does some keyhook magic that requires custom scripts for proper gaming, unlike the more straightforward NVDA.
 
 Supporting NVDA might be the option to support the majority of gamers.
+
+## Q: Is the Windows built-in screen narrator any good?
+A: No.
+
+## Q: Do you have opinions on games with their own audio or text-to-speech instead of screen reader compatibility?
+A: This is pretty subjective, but I believe for most, including me, screen reader compatibility would be great. If your game uses the operating system's TTS, it would help if you expose controls for speech rate, changing the voice, and a game-global key (mostly ctrl) that silences speech when pressed. For completely self-voiced games (e.g., using prerecorded speech), it's usually not that great because then you are limited by the speed and quality of the prerecorded lines.
+
 
 # Game Mechanics and Genre-Specific Questions
 
