@@ -26,6 +26,11 @@ A: Audio games often use an "audio camera" system, where you hold down a key and
 
 Adding a text description of where you are, as well as clear distinct wall and foot step sounds, also helps.
 
+## Q: How do you prefer lists? For like an inventory. Something more cursor based, where you go down individually, pages where each page is spoken out, or something in the middle?
+A: Cursor-based navigation with the arrow keys would be easy to implement and straightforward to use. Think of pressing up/down arrows or tab/shift tab to browse the items. Whenever you press these keys and the focused item changes, the newly focused item is spoken out. If there are any more details about the item, have a key to announce it. Like a key for a description of the item, a key to use it or drop it, etc.
+
+Having a hole page of items spoken out would probably be confusing. It's easier to just brows to your selected item than hearing a hole list of items spoken out just to know what you have.
+
 # Other
 
 ## Q: What type of keyboard do you use?
