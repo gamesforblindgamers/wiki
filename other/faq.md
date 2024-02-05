@@ -13,7 +13,7 @@ Additionally, many daily JAWS users even have NVDA as a backup, and use it as th
 
 Supporting NVDA might be the option to support the majority of gamers.
 
-# Game Mechanics
+# Game Mechanics and Genre-Specific Questions
 
 ## Q: Are turn-based games particularly popular with blind gamers?
 A: There is nothing especially popular about turn-baste games, but we play them if we like them, just like any other games.
@@ -21,6 +21,10 @@ A: There is nothing especially popular about turn-baste games, but we play them 
 ## Q: What reading speed do you prefer for in-game text? For example: tutorials, item or effect descriptions, menus, etc.
 A: This is very subjective, and I highly recommend that you don't assume anything. Provide a way to change the speech rate (Every speech synthesis API I know of will let you do that) or interface with screen readers directly. As for content that needs a natural voice, like cut-scenes and whatnot, then there's nothing special you should keep in mind about the speed there. It should just flow with your story and theme.
 
+## Q: How do I make a 3D game, such as a walking simulator, accessible to blind players?
+A: Audio games often use an "audio camera" system, where you hold down a key and can explore around your character (in the audio field) with the normal navigation keys. And if you have a goal, add some unique auditory sound for the target. 
+
+Adding a text description of where you are, as well as clear distinct wall and foot step sounds, also helps.
 
 # Other
 
