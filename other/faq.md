@@ -15,16 +15,24 @@ Supporting NVDA might be the option to support the majority of gamers.
 
 # Game Mechanics and Genre-Specific Questions
 
+
+## Q: How do I make a 3D game, such as a walking simulator, navigatble to blind players?
+A: Audio games often use an "audio camera" system, where you hold down a key and can explore around your character (in the audio field) with the normal navigation keys. And if you have a goal, add some unique auditory sound for the target. 
+
+Adding a text description of where you are, as well as clear distinct wall and foot step sounds, also helps.
+
+As for notifying about surroundings, there are a few options:
+
+- For example, have a set of keys that "look" at an angle. Use the K key to look left and the L key to look right. Each time the user presses either K or L, you cycle between objects within the view range in that direction (use raycasting or something).
+- Or you can have things play a looping sound, positioned where they are relative to the player in terms of volume (e.g. louder if closer). They're audible, and you can move into them and interact.
+- Alternatively, you can have a key that triggers a list displaying everything on the map and its coordinates/position/direction.
+- Another option is to have some sort of sonar that constantly scans around or in front of the player and announces anything new you can interact with, and so on.
+
 ## Q: Are turn-based games particularly popular with blind gamers?
 A: There is nothing especially popular about turn-baste games, but we play them if we like them, just like any other games.
 
 ## Q: What reading speed do you prefer for in-game text? For example: tutorials, item or effect descriptions, menus, etc.
 A: This is very subjective, and I highly recommend that you don't assume anything. Provide a way to change the speech rate (Every speech synthesis API I know of will let you do that) or interface with screen readers directly. As for content that needs a natural voice, like cut-scenes and whatnot, then there's nothing special you should keep in mind about the speed there. It should just flow with your story and theme.
-
-## Q: How do I make a 3D game, such as a walking simulator, accessible to blind players?
-A: Audio games often use an "audio camera" system, where you hold down a key and can explore around your character (in the audio field) with the normal navigation keys. And if you have a goal, add some unique auditory sound for the target. 
-
-Adding a text description of where you are, as well as clear distinct wall and foot step sounds, also helps.
 
 ## Q: How do you prefer lists? For like an inventory. Something more cursor based, where you go down individually, pages where each page is spoken out, or something in the middle?
 A: Cursor-based navigation with the arrow keys would be easy to implement and straightforward to use. Think of pressing up/down arrows or tab/shift tab to browse the items. Whenever you press these keys and the focused item changes, the newly focused item is spoken out. If there are any more details about the item, have a key to announce it. Like a key for a description of the item, a key to use it or drop it, etc.
